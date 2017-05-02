@@ -38,8 +38,8 @@ namespace MongoApp
             // Find top 10 of those who tag most other users.
             var aggregate = tweets.Aggregate(new AggregateOptions { AllowDiskUse = true })
                 .Match(new BsonDocument { { "text", BsonRegularExpression.Create(new Regex("@")) } })
-                .Group(new BsonDocument { { "_id", "$user" }, { "nrOfTags", new BsonDocument("$sum", 1) } })
-                .Sort(new BsonDocument { { "nrOfTags", -1 } })
+                .Group(new BsonDocument { { "_id", "$user" }, { "nrOfTweets", new BsonDocument("$sum", 1) } })
+                .Sort(new BsonDocument { { "nrOfTweets", -1 } })
                 .Limit(10);
             return aggregate.ToList();
         }

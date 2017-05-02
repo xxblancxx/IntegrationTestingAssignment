@@ -14,3 +14,4 @@ D:\Projects\MongoApp\MongoApp\obj\Debug\MongoApp.exe
 D:\Projects\MongoApp\MongoApp\obj\Debug\MongoApp.pdb
 D:\Projects\MongoApp\MongoApp\bin\Debug\Newtonsoft.Json.dll
 D:\Projects\MongoApp\MongoApp\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\MongoApp\MongoApp\obj\Debug\MongoApp.csprojResolveAssemblyReference.cache

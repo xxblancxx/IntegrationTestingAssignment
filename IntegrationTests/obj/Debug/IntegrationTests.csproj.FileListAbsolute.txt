@@ -1,0 +1,17 @@
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\IntegrationTests.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\IntegrationTests.pdb
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoApp.exe
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoDB.Bson.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoDB.Driver.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoApp.pdb
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoDB.Bson.xml
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoDB.Driver.xml
+D:\Projects\MongoApp\IntegrationTests\bin\Debug\MongoDB.Driver.Core.xml
+D:\Projects\MongoApp\IntegrationTests\obj\Debug\IntegrationTests.csprojResolveAssemblyReference.cache
+D:\Projects\MongoApp\IntegrationTests\obj\Debug\IntegrationTests.dll
+D:\Projects\MongoApp\IntegrationTests\obj\Debug\IntegrationTests.pdb
